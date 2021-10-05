@@ -1,3 +1,12 @@
+# Deployed Link - https://moviesapp-6c017.web.app/
+
+# API Link - https://bollywood.free.beeceptor.com/bollywood
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
